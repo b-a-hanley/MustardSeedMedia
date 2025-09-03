@@ -1,0 +1,18 @@
+<?php
+require_once 'src/views/Shared/Header.php';
+?>
+
+<div class="bg-[url('/src/files/Fishing-net.jpg')] bg-cover bg-center rounded-lg justify-center">
+  <div class="mx-auto max-w-7xl lg:px-8 p-6">
+    <div class="mx-auto max-w-4xl py-4 rounded-lg text-center">
+      <h3 class="text-base font-semibold leading-7 text-white">Saint Peter's Net:</h3>
+      <p class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">Helping churches spread the Word on the internet</p>
+    </div>
+    <div class="py-48"></div>
+  </div>
+</div>
+
+<?php
+require_once 'src/views/Shared/PricingSection.php';
+require_once 'src/views/Shared/Footer.php';
+?>
