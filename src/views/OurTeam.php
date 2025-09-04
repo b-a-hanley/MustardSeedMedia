@@ -143,7 +143,7 @@ require_once 'src/views/Shared/Header.php';
       <div>
         <span class="block text-sm font-medium mb-1">SQL & NoSQL Databases</span>
         <div class="w-full h-4 bg-white rounded-lg overflow-hidden">
-          <div class="h-4 bg-primary rounded-lg w-0 animate-fill [animation-delay:1.6s]" style="--target-width: 60%;"></div>
+          <div class="h-4 bg-primary rounded-lg w-0 animate-fill [animation-delay:1.6s]" style="--target-width: 50%;"></div>
         </div>
       </div>
 
@@ -302,7 +302,7 @@ require_once 'src/views/Shared/Header.php';
     <p class="text-3xl underline py-4 font-bold text-colour">Awards</p>
     <div class="flex w-full gap-1">
       <span class="flex-1 text-center px-2 py-2 text-sm font-medium bg-white rounded-lg opacity-0 animate-fadeIn [animation-delay:0.1s]">
-        Member of University societies:
+        University societies:
         <ul class="text-left px-4">
           <li>• Acapella</li>
           <li>• Choir</li>
