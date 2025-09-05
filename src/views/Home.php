@@ -1,5 +1,5 @@
 <?php
-require_once 'src/views/Shared/Header.php';
+require_once 'src/Views/Shared/Header.php';
 ?>
 
 <div class="bg-[url('/src/files/Fishing-net.jpg')] bg-cover bg-center rounded-lg justify-center">
@@ -13,6 +13,6 @@ require_once 'src/views/Shared/Header.php';
 </div>
 
 <?php
-require_once 'src/views/Shared/PricingSection.php';
-require_once 'src/views/Shared/Footer.php';
+require_once 'src/Views/Shared/PricingSection.php';
+require_once 'src/Views/Shared/Footer.php';
 ?>

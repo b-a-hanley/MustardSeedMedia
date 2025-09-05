@@ -1,5 +1,5 @@
 <?php
-require_once 'src/views/Shared/Header.php';
+require_once 'src/Views/Shared/Header.php';
 ?>
 
 <div class="bg-section-background justify-center mx-6 my-6 rounded-xl sm:py-16">
@@ -9,8 +9,8 @@ require_once 'src/views/Shared/Header.php';
   </div> 
 
 <?php
-require_once 'src/views/Shared/PricingSection.php';?> 
+require_once 'src/Views/Shared/PricingSection.php';?> 
 </div>
 <?
-require_once 'src/views/Shared/Footer.php';
+require_once 'src/Views/Shared/Footer.php';
 ?>
