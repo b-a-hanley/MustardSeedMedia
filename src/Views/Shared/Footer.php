@@ -9,9 +9,6 @@
                     <a href="/" class="hover:underline me-4 md:me-6">Church Websites</a>
                 </li>
                 <li>
-                    <a href="/" class="hover:underline me-4 md:me-6">Cathredral webpage</a>
-                </li>
-                <li>
                     <a href="/" class="hover:underline">Christian Website builder</a>
                 </li>
                 <li>
