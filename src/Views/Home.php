@@ -2,7 +2,7 @@
 require_once 'src/Views/Shared/Header.php';
 ?>
 
-<div class="bg-[url('/src/files/Fishing-net.jpg')] bg-cover bg-center rounded-lg justify-center">
+<div class="bg-[url('/assets/Fishing-net.jpg')] bg-cover bg-center rounded-lg justify-center">
   <div class="mx-auto max-w-7xl lg:px-8 p-6">
     <div class="mx-auto max-w-4xl py-4 rounded-lg text-center">
       <h3 class="text-base font-semibold leading-7 text-white">Saint Peter's Net:</h3>

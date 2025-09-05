@@ -7,14 +7,14 @@
 
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
-<link rel="stylesheet" href="/src/views/Colours.css">
+<link rel="stylesheet" href="public_html/src/views/Colours.css">
 <body class="text-colour">
 <nav class="nav">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse group">
       <div class="relative w-20 h-20">
-        <img src="/src/files/Logo.png" alt="Logo" class="absolute inset-0 w-full h-full transition-opacity duration-300 group-hover:opacity-0">
-        <img src="/src/files/Logo-alt.png" alt="Logo Alt" class="absolute inset-0 w-full h-full opacity-0 transition-opacity duration-300 group-hover:opacity-100">
+        <img src="/assets/Logo.png" alt="Logo" class="absolute inset-0 w-full h-full transition-opacity duration-300 group-hover:opacity-0">
+        <img src="/assets/Logo-alt.png" alt="Logo Alt" class="absolute inset-0 w-full h-full opacity-0 transition-opacity duration-300 group-hover:opacity-100">
       </div>
       <span class="self-center text-2xl font-semibold">
         Saint Peter's Net
