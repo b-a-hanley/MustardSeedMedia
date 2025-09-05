@@ -4,10 +4,9 @@
   <title>St Peter's Net</title>
   <meta charset="utf-8">
 </head>
-
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
-<link rel="stylesheet" href="public_html/src/views/Colours.css">
+<link rel="stylesheet" href="/assets/css/Colours.css">
 <body class="text-colour">
 <nav class="nav">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
