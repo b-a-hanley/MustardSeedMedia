@@ -11,7 +11,7 @@ require_once 'src/Views/Shared/Header.php';
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-12 px-6">
     <div class="flex justify-center md:justify-start">
       <img class="h-auto max-w-full rounded-lg shadow-lg" 
-        src="\src/files/Fishing-net.jpg" 
+        src="/assets/Fishing-net.jpg" 
         alt="Chatting">
     </div>
 

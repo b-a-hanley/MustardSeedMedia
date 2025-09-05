@@ -7,8 +7,8 @@
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-12 px-6">
     <div class="flex justify-center md:justify-end md:order-2">
       <img class="h-auto max-w-full rounded-lg shadow-lg" 
-        src="/src\files\Photography.jpg" 
-        alt="Church Anniversary Lunch">
+        src="/assets/Photography.jpg" 
+        alt="Newquay walk">
     </div>
 
     <div class="mx-auto max-w-2xl text-center md:text-left">

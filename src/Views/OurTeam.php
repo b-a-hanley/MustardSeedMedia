@@ -10,7 +10,7 @@ require_once 'src/Views/Shared/Header.php';
     <div class="justify-center bg-div-background rounded-lg shadow py-6 px-6 sm:flex">
       <div class="flex justify-center md:justify-start">
         <img class="h-auto max-w-xs rounded-lg shadow-lg"
-          src="/src/files/Ben.jpg"
+          src="/assets/Ben.jpg"
           alt="Ben">
       </div>
       <div class="p-5">
