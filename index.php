@@ -1,7 +1,7 @@
 <?php
 
 // Autoload classes using Composer (assuming you have a PSR-4 autoloader set up)
-require_once 'vendor/autoload.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 // Namespace declaration
 
 use App\Controllers;
