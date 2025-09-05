@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="/assets/css/Colours.css">
 </head>
 <body class="text-colour">
-<nav class="nav bg-background">
+<nav class="nav">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <!-- Logo -->
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse group">
