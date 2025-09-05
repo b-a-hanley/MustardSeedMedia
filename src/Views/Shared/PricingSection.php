@@ -52,7 +52,7 @@
                         <span>Modifications: £30 per hour</span>
                     </li>
                 </ul>
-                <a href="#" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
+                <a href="/error" class="text-white bg-action focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
             </div>
             <!-- Pricing Card -->
             <div class="flex flex-col p-6 mx-auto max-w-lg text-center rounded-lg shadow bg-div-background text-colour">
@@ -119,7 +119,7 @@
                         <span>Modifications: £30 per hour</span>
                     </li>
                 </ul>
-                <a href="#" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
+                <a href="/error" class="text-white bg-action focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
             </div>
             <!-- Pricing Card -->
             <div class="flex flex-col p-6 mx-auto max-w-lg text-center rounded-lg shadow xl:p-8 bg-div-background">
@@ -204,7 +204,7 @@
                         <span>Modifications: £60 per hour</span>
                     </li>
                 </ul>
-                <a href="#" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
+                <a href="/error" class="text-white bg-action focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:text-white  dark:focus:ring-primary-900">Get started</a>
             </div>
         </div>
     </div>
