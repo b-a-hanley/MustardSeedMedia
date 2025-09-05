@@ -21,9 +21,11 @@
     </a>
 
     <!-- Mobile hamburger button -->
-    <button data-collapse-toggle="mobile-menu" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-white rounded-lg md:hidden hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-200" aria-controls="mobile-menu" aria-expanded="false">
+    <button data-collapse-toggle="mobile-menu" type="button" class="inline-flex items-center p-2 ml-3 text-sm rounded-lg md:hidden bg-action group" aria-controls="mobile-menu" aria-expanded="false">
       <span class="sr-only">Open main menu</span>
-      <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M3 5h14M3 10h14M3 15h14" clip-rule="evenodd"/></svg>
+      <svg class="w-6 h-6 stroke-white group-hover:stroke-black hover:stroke-black transition-colors duration-200" fill="none" viewBox="0 0 20 20" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M3 5h14M3 10h14M3 15h14" />
+      </svg>
     </button>
 
     <!-- Desktop & mobile menu -->
