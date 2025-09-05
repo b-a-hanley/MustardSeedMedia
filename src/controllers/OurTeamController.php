@@ -6,7 +6,7 @@ class OurTeamController {
 	public function __construct() {}
 
 	public function index() {
-        require_once('src/views/OurTeam.php');
+        require_once('src/Views/OurTeam.php');
     }
 
 }
