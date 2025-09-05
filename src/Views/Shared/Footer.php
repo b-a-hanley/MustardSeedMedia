@@ -6,13 +6,13 @@
             </a>
             <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray sm:mb-0 dark:text-white">
                 <li>
-                    <a href="/st-marys/our-story" class="hover:underline me-4 md:me-6">About</a>
+                    <a href="/" class="hover:underline me-4 md:me-6">Church Websites</a>
                 </li>
                 <li>
-                    <a href="/assets/Privacy-Notice.pdf" class="hover:underline me-4 md:me-6">Privacy Policy</a>
+                    <a href="/" class="hover:underline">Christian Website builder</a>
                 </li>
                 <li>
-                    <a href="/st-marys/contact-us" class="hover:underline">Contact us</a>
+                    <a href="/" class="hover:underline">Church Website hosting</a>
                 </li>
             </ul>
         </div>

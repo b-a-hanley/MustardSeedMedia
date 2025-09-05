@@ -6,7 +6,7 @@ require_once 'src/Views/Shared/Header.php';
   <div class="mx-auto max-w-7xl lg:px-8 p-6">
     <div class="mx-auto max-w-4xl py-4 rounded-lg text-center">
       <h3 class="text-base font-semibold leading-7 text-white">Saint Peter's Net:</h3>
-      <p class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">Helping churches spread the Word on the internet</p>
+      <p class="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">Helping church websites spread the Word on the internet</p>
     </div>
     <div class="py-48"></div>
   </div>

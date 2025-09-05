@@ -7,8 +7,8 @@
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-12 px-6">
     <div class="flex justify-center md:justify-end md:order-2">
       <img class="h-auto max-w-full rounded-lg shadow-lg" 
-        src="/assets/Photography.jpg" 
-        alt="Newquay walk">
+        src="/assets/Fishing-net.jpg" 
+        alt="Fishing net">
     </div>
 
     <div class="mx-auto max-w-2xl text-center md:text-left">
@@ -16,7 +16,7 @@
          Born in Portsmouth, our owner, Ben, had a natural effinity with technology. At the age of 11 he built an elaborate powerpoint game until he was told of programming. Ben with his new found love went to university to achieve a computer science degree. Whilst looking for work Ben realised he could use his time to craft bespoke church websites.</p>
       <p class="mt-6 text-xl leading-8 text-colour"> Ben set out with a challenge, to make church websites:</p>
       </p>
-      <p class="font-bold text-xl">• Afforable</p>
+      <p class="font-bold text-xl">• Affordable</p>
       <p class="font-bold text-xl">• Usable</p>
       <p class="font-bold text-xl">• Mission focussed</p>
     </div>
