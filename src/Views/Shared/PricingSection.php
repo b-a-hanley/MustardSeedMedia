@@ -1,7 +1,7 @@
 <section class="bg-section-background px-6 py-6">
     <div class="py-8 px-4 mx-auto max-w-screen-xl">
             <div class="text-center px-6">
-                <p class="text-xl font-semibold leading-7 text-gray-700">Unmatched affordable prices offering comprehensive websites</p>
+                <p class="text-xl font-semibold leading-7 text-gray-700">Comprehensive websites for affordable prices</p>
             </div>
         </div>
         <div class="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
