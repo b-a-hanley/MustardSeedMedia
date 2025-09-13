@@ -5,12 +5,13 @@ require_once 'src/Views/Shared/Header.php';
 <div class="bg-section-background mx-4 my-6 rounded-xl sm:py-16">
 
   <!-- Title -->
-  <div class="mx-auto py-4 max-w-screen-sm text-center mb-8 lg:mb-16 rounded-lg">
+  <div class="text-center px-6">
     <h3 class="text-base font-semibold leading-7 text-primary">Saint Peter's Net:</h3>
-  </div>
+    <p class="mt-2 text-4xl font-bold tracking-tight text-colour sm:text-5xl">CV</p>
+  </div> 
 
   <!-- Profile Section -->
-  <div class="px-4 sm:px-6 lg:px-12">
+  <div class="px-4 py-6 sm:px-6 lg:px-12">
     <div class="flex flex-col sm:flex-row justify-center bg-div-background rounded-lg shadow py-6 px-4 sm:px-6">
       <div class="flex justify-center sm:justify-start mb-4 sm:mb-0 sm:mr-6">
         <img class="h-auto max-w-xs sm:max-w-[200px] rounded-lg shadow-lg" src="/assets/Ben.jpg" alt="Ben">
@@ -128,6 +129,7 @@ require_once 'src/Views/Shared/Header.php';
       <p class="text-2xl sm:text-3xl underline py-4 font-bold text-colour text-center">Experience</p>
       <?php
       $experience = [
+        ["title" => "Software Developer", "date" => "Sep 2025-Current", "location" => "Blueteq, Havant, Hampshire", "details" => ["Develop Blueteq software in project lifecyles that supports NHS infrastructure.", "Contributed ideas, suggestions, and thoughts to improve the efficiency, performance, and reliability of existing & new systems."]],
         ["title" => "Social Media Manager", "date" => "Dec 2022-Current", "location" => "Freelance, Remote", "details" => ["Creating content to engage a specific demographic using analytic data for growth.", "Setting up sponsorship clients and providing content that matches to their needs."]],
         ["title" => "Trainee Software Engineer Placement Year", "date" => "Sep 2023-Jul 2024", "location" => "ChurchSuite, Nottingham, Nottinghamshire", "details" => ["Worked in project cycles alongside other developers, developing, testing and debugging the ChurchSuite ecosystem.", "Developed with and adapted design patterns to create new functionality, optimize code, and replace legacy systems."]],
         ["title" => "Embedded Programming Consultant", "date" => "Aug 2022-Mar 2023", "location" => "Freelance, Plymouth, Devon", "details" => ["Effectively liaised with the client and proposed possible technical solutions with functional requirements.", "Built an IoT application processing API information, performing fluid dynamics calculations to control GPIO components."]],

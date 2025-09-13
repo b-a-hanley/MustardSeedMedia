@@ -53,7 +53,7 @@ require_once 'src/Views/Shared/Header.php';
     <p class="text-2xl sm:text-3xl underline py-4 font-bold text-colour text-center">Skills</p>
     <div class="flex flex-wrap gap-2 justify-center">
       <?php
-      $skills = ["Creative thinking", "Problem solving", "Stakeholder-Management", "Teamwork"];
+      $skills = ["Creative thinking", "Programming", "User design", "Branding", "Problem solving", "Client liason", "Teamwork"];
       $delay = 0.1;
       foreach ($skills as $skill) {
         echo '<span class="text-center px-2 py-2 text-sm font-medium bg-white rounded-lg opacity-0 animate-fadeIn [animation-delay:' . $delay . 's]">' . $skill . '</span>';
@@ -101,6 +101,7 @@ require_once 'src/Views/Shared/Header.php';
       <p class="text-2xl sm:text-3xl underline py-4 font-bold text-colour text-center">Experience</p>
       <?php
       $experience = [
+        ["title" => "Software Developer", "date" => "Sep 2025-Current", "location" => "Blueteq, Havant, Hampshire", "details" => ["Develop & maintain an understanding of Blueteq core systems & business practices", "Contributed ideas, suggestions, and thoughts to improve the efficiency, performance, and reliability of existing & new systems"]],
         ["title" => "Social Media Manager", "date" => "Dec 2022-Current", "location" => "Freelance, Remote", "details" => ["Creating content to engage a specific demographic using analytic data for growth.", "Setting up sponsorship clients and providing content that matches to their needs."]],
         ["title" => "Trainee Software Engineer Placement Year", "date" => "Sep 2023-Jul 2024", "location" => "ChurchSuite, Nottingham, Nottinghamshire", "details" => ["Worked in project cycles alongside other developers, developing, testing and debugging the ChurchSuite ecosystem.", "Developed with and adapted design patterns to create new functionality, optimize code, and replace legacy systems."]],
         ["title" => "Embedded Programming Consultant", "date" => "Aug 2022-Mar 2023", "location" => "Freelance, Plymouth, Devon", "details" => ["Effectively liaised with the client and proposed possible technical solutions with functional requirements.", "Built an IoT application processing API information, performing fluid dynamics calculations to control GPIO components."]],

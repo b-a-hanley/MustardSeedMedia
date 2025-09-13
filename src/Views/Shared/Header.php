@@ -10,10 +10,10 @@
 </head>
 <body class="text-colour">
 <nav class="nav">
-  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-3">
     <!-- Logo -->
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse group">
-      <div class="relative w-20 h-20">
+      <div class="relative w-12 h-12">
         <img src="/assets/Logo.png" alt="Logo" class="absolute inset-0 w-full h-full transition-opacity duration-300 group-hover:opacity-0">
         <img src="/assets/Logo-alt.png" alt="Logo Alt" class="absolute inset-0 w-full h-full opacity-0 transition-opacity duration-300 group-hover:opacity-100">
       </div>
