@@ -32,6 +32,14 @@ switch ($uri) {
 		$controller = new Controllers\OurTeamController();
 		$controller->index();
 		break;
+	case '/maintance':
+		$controller = new Controllers\FixesController();
+		$controller->index();
+		break;
+	case '/cv':
+		$controller = new Controllers\CVController();
+		$controller->index();
+		break;
 	case '/pricing':
 		$controller = new Controllers\PricingController();
 		$controller->index();
