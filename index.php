@@ -58,7 +58,7 @@ switch ($uri) {
 		$controller = new Controllers\Scavenger1Controller();
 		$controller->index();
 		break;
-	case '/clue':
+	case '/clue/sock':
 		$controller = new Controllers\Clue1Controller();
 		$controller->index();
 		break;
