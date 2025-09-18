@@ -12,12 +12,12 @@
 <nav class="nav">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-3">
     <!-- Logo -->
-    <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse group">
+    <a href="/scavenger" class="flex items-center space-x-3 rtl:space-x-reverse group">
       <div class="relative w-12 h-12">
-        <img src="/assets/Logo-brown.png" alt="Logo" class="absolute inset-0 w-full h-full transition-opacity duration-300 group-hover:opacity-0">
-        <img src="/assets/Logo-brown-alt.png" alt="Logo Alt" class="absolute inset-0 w-full h-full opacity-0 transition-opacity duration-300 group-hover:opacity-100">
+        <img src="/assets/ChristianUnion.jpg" alt="Logo" class="absolute rounded-full inset-0 w-full h-full transition-opacity duration-300 group-hover:opacity-0">
+        <img src="/assets/ChristianUnion.jpg" alt="Logo Alt" class="absolute rounded-full inset-0 w-full h-full opacity-0 transition-opacity duration-300 group-hover:opacity-100">
       </div>
-      <span class="self-center text-2xl font-semibold">Saint Peter's Net</span>        
+      <span class="self-center text-2xl font-semibold">Christian Union Scavenger Hunt</span>        
     </a>
 
     <!-- Mobile hamburger button -->
@@ -27,16 +27,6 @@
         <path stroke-linecap="round" stroke-linejoin="round" d="M3 5h14M3 10h14M3 15h14" />
       </svg>
     </button>
-
-    <!-- Desktop & mobile menu -->
-    <div class="hidden w-full md:flex md:w-auto" id="mobile-menu">
-      <ul class="font-medium flex flex-col md:flex-row md:space-x-8 mt-4 md:mt-0">
-        <li><a href="our-story" class="block px-4 py-2 border-0 hover:text-primary">Our Story</a></li>
-        <li><a href="ben-hanley" class="block px-4 py-2 border-0 hover:text-primary">Our Team</a></li>
-        <li><a href="pricing" class="block px-4 py-2 border-0 hover:text-primary">Pricing</a></li>
-        <li><a href="contact-us" class="block px-4 py-2 border-0 bg-action rounded-lg text-white">Contact Us</a></li>
-      </ul>
-    </div>
   </div>
 </nav>
 
