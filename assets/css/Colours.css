@@ -1,5 +1,16 @@
 :root {
-  --nav: #111827;
+  
+  --nav: #4B3621;           /* Deep indigo */           /* Deep navy-grey */
+  --navText: #ffffff;         /* White */
+  --background: #CBB994;      /* Light brown */
+  --sectionBackground: #FFF4D6; /* Warmer cream */
+  --divBackground: #ffffff;   /* White */
+  --primary: #D4A017;         /* Mustard */
+  --action: #D4A017;          /* Mustard accent */
+}
+
+.blue {
+    --nav: #111827;
   --navText: #ffffff;
   --background: #91C0D7;
   --sectionBackground: #d1eaf9;
@@ -9,7 +20,29 @@
   --text: #000000;  
   --textVariant: #b1b1b1; 
 }
-
+.orange {
+    /* Navigation */
+  --nav: #111827;        /* Deep navy-grey */
+  --navText: #ffffff;    /* White */
+  --background: #F9F6EE;        /* Off-White */
+  --sectionBackground: #FFFBF2; /* Soft cream */
+  --divBackground: #ffffff;     /* Pure white */
+  --primary: #D4A017;    /* Mustard */
+  --action: #D4A017;     /* Mustard accent */
+}
+.purple{
+  /* Text */
+  --text: #000000;       /* Black */
+  --textVariant: #b1b1b1;/* Grey */
+   --nav: #111827;
+ --background: #202050;
+ --sectionBackground: #312e81;
+ --divBackground: #4338ca; 
+ --primary: #a5b4fc; 
+ --action: #2563eb; 
+ --text: #ffffff;   
+ --textVariant: #b1b1b1; 
+}
 .nav {
     background-color: var(--nav);
     color: var(--navText);
@@ -96,6 +129,16 @@ a:hover {
 }
 
 .ring-button:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.highlight-ring {
+    color: var(--text);
+    text-align: center;
+}
+
+.highlight-ring:hover {
     border-color: var(--primary);
     color: var(--primary);
 }
