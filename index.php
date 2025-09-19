@@ -44,6 +44,10 @@ switch ($uri) {
 		$controller = new Controllers\StarterController();
 		$controller->index();
 		break;
+	case '/instructions':
+		$controller = new Controllers\InstructionsController();
+		$controller->index();
+		break;
 	//destination: methodist central hall
 	case '/scavenger':
 		$controller = new Controllers\ScavengerController();
