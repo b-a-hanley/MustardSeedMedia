@@ -18,9 +18,9 @@
         <li><a href="/" class="block px-2 py-1 text-sm hover:text-primary">Church Websites</a></li>
         <li><a href="/" class="block px-2 py-1 text-sm hover:text-primary">Christian Website Builder</a></li>
         <li><a href="/" class="block px-2 py-1 text-sm hover:text-primary">Church Website Hosting</a></li>
-        <li><a href="/maintance" class="block px-2 py-1 text-sm hover:text-primary">Church Website Updates</a></li>
-        <li><a href="/maintance" class="block px-2 py-1 text-sm hover:text-primary">Church Website Maintenance</a></li>
-        <li><a href="/maintance" class="block px-2 py-1 text-sm hover:text-primary">Church Website Fixes</a></li>
+        <li><a href="/maintenance" class="block px-2 py-1 text-sm hover:text-primary">Church Website Updates</a></li>
+        <li><a href="/maintenance" class="block px-2 py-1 text-sm hover:text-primary">Church Website Maintenance</a></li>
+        <li><a href="/maintenance" class="block px-2 py-1 text-sm hover:text-primary">Church Website Fixes</a></li>
       </ul>
     </div>
 

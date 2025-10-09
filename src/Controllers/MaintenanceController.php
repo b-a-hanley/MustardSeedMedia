@@ -1,12 +1,12 @@
 <?php
 namespace App\Controllers;
 
-class FixesController {
+class MaintenanceController {
 
 	public function __construct() {}
 
 	public function index() {
-        require_once('src/Views/Fixes.php');
+        require_once('src/Views/Maintenance.php');
     }
 
 }
