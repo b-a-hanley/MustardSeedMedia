@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>St Peter's Net</title>
+  <title>St Peter's Net - Affordable Church Websites</title>
+  <meta name="description" content="Affordable church website design and Christian web development — mobile-friendly sites built to support ministries and grow God's Kingdom."> 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/x-icon" href="/assets/Logo-brown-flav.ico">
