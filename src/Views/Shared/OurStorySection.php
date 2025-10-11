@@ -13,12 +13,16 @@
 
     <div class="mx-auto max-w-2xl text-center md:text-left">
       <p class="mt-6 text-xl leading-8 text-colour">
-         Born in Portsmouth, Ben, had a natural effinity with technology. At the age of 11 he built an elaborate powerpoint game until he was told of programming. Ben with his new found love went to university to achieve a computer science degree. Whilst looking for work Ben realised he could use his time to craft bespoke church websites.</p>
-      <p class="mt-6 text-xl leading-8 text-colour"> Ben set out with a challenge, to make church websites:</p>
+         Born in Portsmouth, Ben’s passion for technology began early, transforming PowerPoint into interactive games before discovering software development. He went on to earn a 2:1 in Computer Science from the University of Plymouth, where he developed a love for creating practical and thoughtful software solutions.</p>
+      <p class="mt-6 text-xl leading-8 text-colour"> 
+        With experience in both Christian and healthcare software, Ben felt called to use his skills to serve the Church. As a passionate Christian, he began this project to help churches and ministries share their message online, offering affordable, bespoke websites built with care, purpose, and faith at their heart.</p>
+    </div>
+  </div>
+  <div class="text-center px-6">
+    <p class="mt-6 text-xl leading-8 text-colour"> Ben set out with a challenge, to make church websites:</p>
       </p>
       <p class="font-bold text-xl">• Affordable</p>
       <p class="font-bold text-xl">• Usable</p>
       <p class="font-bold text-xl">• Mission focussed</p>
-    </div>
   </div>
 </section>
