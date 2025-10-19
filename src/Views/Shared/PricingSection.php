@@ -68,7 +68,13 @@
             <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
             </svg>
-            <p class="text-colour">Bespoke 4-20 Page Website</p>
+            <p class="text-colour">Bespoke website</p>
+          </li>
+          <li class="flex items-center">
+            <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            <p class="text-colour">Unlimited Pages</p>
           </li>
           <li class="flex items-center">
             <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -102,7 +108,7 @@
           </li>
         </ul>
         <div class="mt-auto">
-            <p class="text-colour mb-2">One-off setup cost: <span class="font-semibold">£100</span></p>
+            <p class="text-colour mb-2">One-off setup cost: <span class="font-semibold">£5 per page</span></p>
             <p class="text-colour mb-6">Modifications: <span class="font-semibold">£20/hour</span></p>
             <a href="/premium" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
         </div>
@@ -123,7 +129,13 @@
             <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
             </svg>
-            <p class="text-colour">Bespoke 20+ Page Website</p>
+            <p class="text-colour">Bespoke website</p>
+          </li>
+          <li class="flex items-center">
+            <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            <p class="text-colour">Unlimited Pages</p>
           </li>
           <li class="flex items-center">
             <svg class="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
