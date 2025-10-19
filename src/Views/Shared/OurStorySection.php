@@ -20,7 +20,7 @@
   </div>
   <div class="text-center px-6">
     <p class="mt-6 text-xl leading-8 text-colour"> Ben set out with a challenge, to make church websites:</p>
-      </p>
+  
       <p class="font-bold text-xl">• Affordable</p>
       <p class="font-bold text-xl">• Usable</p>
       <p class="font-bold text-xl">• Mission focussed</p>
