@@ -139,6 +139,7 @@ a:hover {
 }
 
 .highlight-ring:hover {
+    border-inline-width: 2px;
     border-color: var(--primary);
     color: var(--primary);
 }
