@@ -113,6 +113,10 @@ switch ($uri) {
 		$controller = new Controllers\ContactUsController();
 		$controller->index();
 		break;
+	case '/birthday/abbie':
+		$controller = new Controllers\Birthday\AbbieController();
+		$controller->index();
+		break;
 	default:
 		$controller = new Controllers\ErrorController();
 		$controller->index();
