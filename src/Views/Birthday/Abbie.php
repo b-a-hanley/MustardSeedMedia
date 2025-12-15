@@ -27,7 +27,7 @@
             <p class="mt-2 text-2xl font-bold tracking-tight text-colour sm:text-2xl">Angry Abbie</p>
             <div className="flex justify-center md:justify-end md:order-2">
             <img className="h-auto max-w-full rounded-lg shadow-lg" 
-                    src="/assets/AngryAbbie.jpg"
+                    src="/assets/AngryAbbie.JPG"
                     alt="wait for image to load"/>
             </div>
           </div>
@@ -38,7 +38,7 @@
             <p class="mt-2 text-2xl font-bold tracking-tight text-colour sm:text-2xl">Swollen Abbie</p>
             <div className="flex justify-center md:justify-end md:order-2">
             <img className="h-auto max-w-full rounded-lg shadow-lg" 
-                    src="/assets/SwollenAbbie.jpg"
+                    src="/assets/SwollenAbbie.JPG"
                     alt="wait for image to load"/>
             </div>
           </div>
@@ -49,7 +49,7 @@
             <p class="mt-2 text-2xl font-bold tracking-tight text-colour sm:text-2xl">Abbie striking a pose</p>
             <div className="flex justify-center md:justify-end md:order-2">
             <img className="h-auto max-w-full rounded-lg shadow-lg" 
-                    src="/assets/StrikingAPoseAbbie.jpg"
+                    src="/assets/StrikingAPoseAbbie.JPG"
                     alt="wait for image to load"/>
             </div>
           </div>
@@ -71,7 +71,7 @@
             <p class="mt-2 text-2xl font-bold tracking-tight text-colour sm:text-2xl">Leader Abbie</p>
             <div className="flex justify-center md:justify-end md:order-2">
             <img className="h-auto max-w-full rounded-lg shadow-lg" 
-                    src="/assets/BossyAbbie.jpg"
+                    src="/assets/BossyAbbie.JPG"
                     alt="wait for image to load"/>
             </div>
           </div>
@@ -82,7 +82,7 @@
             <p class="mt-2 text-2xl font-bold tracking-tight text-colour sm:text-2xl">Abbie in a debate</p>
             <div className="flex justify-center md:justify-end md:order-2">
             <img className="h-auto max-w-full rounded-lg shadow-lg" 
-                    src="/assets/AbbieInDebates.jpg"
+                    src="/assets/AbbieInDebates.JPG"
                     alt="wait for image to load"/>
             </div>
           </div>
