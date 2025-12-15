@@ -6,7 +6,7 @@ class AbbieController {
 	public function __construct() {}
 
 	public function index() {
-        require_once('src/views/Birthday/Abbie.php');
+        require_once('src/Views/Birthday/Abbie.php');
     }
 
 }

@@ -113,7 +113,7 @@ switch ($uri) {
 		$controller = new Controllers\ContactUsController();
 		$controller->index();
 		break;
-	case '/birthday/abbie':
+	case '/birthday/af2sg/abbie':
 		$controller = new Controllers\Birthday\AbbieController();
 		$controller->index();
 		break;
