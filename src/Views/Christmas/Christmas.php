@@ -1,6 +1,6 @@
 <head>
   <title>Merry Christmas <?= htmlspecialchars($name) ?></title>
-  <meta name="description" content="Tis Abbie day"> 
+  <meta name="description" content="Tis The Season"> 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/x-icon" href="/assets/Logo-brown-flav.ico">
