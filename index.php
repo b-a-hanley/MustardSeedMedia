@@ -117,6 +117,11 @@ switch ($uri) {
 		$controller = new Controllers\Birthday\AbbieController();
 		$controller->index();
 		break;
+	case (preg_match('#^/christmascard(?:/([^/]+))?$#', $uri, $matches) ? true : false):
+		$controller = new Controllers\Christmas\ChristmasController();
+		$name = $matches[1] ?? null;
+		$controller->index($name);
+		break;
 	default:
 		$controller = new Controllers\ErrorController();
 		$controller->index();
