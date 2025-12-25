@@ -240,7 +240,7 @@
   }
   .box2 img {
     position: absolute;
-    bottom:0vh;
+    bottom:10vh;
     left: 0;
     width: 30vw; 
   }
