@@ -119,7 +119,7 @@ switch ($uri) {
 		break;
 	case (preg_match('#^/christmascard(?:/([^/]+))?$#', $uri, $matches) ? true : false):
 		$controller = new Controllers\Christmas\ChristmasController();
-		$name = $matches[1] ?? null;
+		$name = isset($matches[1]) ? ucwords(strtolower(urldecode($matches[1]))) : null;
 		$controller->index($name);
 		break;
 	default:
