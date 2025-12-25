@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="/assets/css/Colours.css">
 </head>
 <body class="bg-[#6b705c]">
-<div class="justify-center bg-section-background mx-12 my-12 rounded-xl sm:py-16">
+<div class="justify-center bg-section-background mx-12 my-6 rounded-xl sm:py-16">
   
   <div class="text-center px-8 py-4">
     <span class="mt-2 text-2xl font-bold tracking-tight text-primary">Dear</span>
@@ -19,7 +19,7 @@
 <div class="box">
   <img src="/assets/holly.svg" alt="">
 </div>
-  <div class="relative w-full max-w-4xl mx-auto mt-20"> 
+  <div class="relative w-full max-w-4xl mx-auto my-6"> 
     <div class="overflow-hidden">
       <div id="carousel" class="flex transition-transform duration-500 space-x-6">       
         <div class="flex-none w-full rounded-2xl">
@@ -234,7 +234,7 @@
 <style>
   .box img {
     position: absolute;
-    top:30px;
+    top:20vh;
     right: 0;
     width: 30vw; 
   }
