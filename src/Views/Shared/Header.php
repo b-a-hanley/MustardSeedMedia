@@ -19,7 +19,7 @@
         <img src="/assets/Logo-brown.png" alt="Logo" class="absolute inset-0 w-full h-full transition-opacity duration-300 group-hover:opacity-0">
         <img src="/assets/Logo-brown-alt.png" alt="Logo Alt" class="absolute inset-0 w-full h-full opacity-0 transition-opacity duration-300 group-hover:opacity-100">
       </div>
-      <span class="self-center text-2xl font-semibold">Saint Peter's Net</span>        
+      <span class="self-center text-2xl font-semibold">PetersNet</span>        
     </a>
 
     <!-- Mobile hamburger button -->

@@ -3,51 +3,54 @@ require_once 'src/Views/Shared/Header.php';
 ?>
 
 <div class="bg-section-background mx-4 my-6 rounded-xl sm:py-16">
+  <div class="px-4 py-4 sm:px-6 lg:px-12">
+    <div class="flex flex-col sm:flex-row justify-center shadow-lg bg-div-background rounded-lg py-6 px-4 sm:px-6">
+      <div class="grid grid-cols-1 gap-8 items-center py-3 px-3 md:grid-cols-2">  
+        <img
+          class=
+            "h-auto max-w-full rounded-lg shadow-lg"
+          src="/assets/Ben.jpg"
+        />
+        <div class="mx-auto max-w-2xl text-center text-2xl md:text-left">
+          <h3 class="text-3xl sm:text-4xl font-bold tracking-tight text-colour">
+            Ben Hanley
+          </h3>
+          <span class="text-xl sm:text-2xl italic text-colour">
+            Professional Computer Nerd
+          </span>
+          <p class="mt-3 mb-4 text-base sm:text-lg font-light text-colour">
+            A software developer and Computer Science graduate of the University of Plymouth, with experience across the Christian and Healthcare sectors. I have developed strong interpersonal skills through group projects and client-facing roles, working effectively in both leadership and supporting positions.
+          </p>
+          <p class="mt-3 mb-4 text-base sm:text-lg font-light text-colour">
+            As a freelance web developer, I focus on usability and empathetic design to create engaging, user-centred church websites. I am passionate about problem-solving and approach challenges creatively to improve both design and efficiency. I prioritise critical thinking and seek to understand the reasoning behind decisions in order to refine and strengthen outcomes. Inspired by my Christian faith, I aim to develop technology that meaningfully improves everyday life.
+          </p>
 
-  <!-- Title -->
-  <div class="mx-auto py-4 max-w-screen-sm text-center mb-8 lg:mb-16 rounded-lg">
-    <h3 class="text-base font-semibold leading-7 text-primary">Saint Peter's Net:</h3>
-  </div>
-
-  <!-- Profile Section -->
-  <div class="px-4 sm:px-6 lg:px-12">
-    <div class="flex flex-col sm:flex-row justify-center bg-div-background rounded-lg shadow py-6 px-4 sm:px-6">
-      <div class="flex justify-center sm:justify-start mb-4 sm:mb-0 sm:mr-6">
-        <img class="h-auto max-w-xs sm:max-w-[200px] rounded-lg shadow-lg" src="/assets/Ben.jpg" alt="Ben">
-      </div>
-      <div class="flex-1">
-        <h3 class="text-3xl sm:text-4xl font-bold tracking-tight text-colour">Ben Hanley</h3>
-        <span class="text-xl sm:text-2xl italic text-colour">Professional Computer Nerd</span>
-        <p class="mt-3 mb-4 text-base sm:text-lg font-light text-colour">
-          A diligent Computer Science Graduate of Plymouth University. I’ve built strong interpersonal skills through group projects and client-facing roles, excelling in both leadership and supportive positions. Passionate about problem-solving, I approach challenges creatively to enhance design and efficiency. Advocating for critical thinking, I seek to understand the "why" behind decisions to strengthen or refine outcomes. Inspired by my faith, I aim to innovate technology that improves everyday life.
-        </p>
-        <div class="text-center sm:text-left mt-4">
-          <p class="mt-2 py-4 text-xl sm:text-2xl font-bold tracking-tight text-colour">More</p>
           <div class="flex flex-col sm:flex-row gap-2 w-full">
-            <a href="mailto:benhanley321@gmail.com"
-              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action 
-              rounded-t-lg sm:rounded-l-lg sm:rounded-tr-none sm:rounded-br-none">
+            <a
+              href="mailto:benhanley321@gmail.com"
+              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action rounded-t-lg sm:rounded-l-lg sm:rounded-tr-none sm:rounded-br-none"
+            >
               Email
             </a>
-            <a href="https://www.linkedin.com/in/ben-hanley-524b94253/"
-              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action rounded-none">
+
+            <a
+              href="https://www.linkedin.com/in/ben-hanley-524b94253/"
+              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action rounded-none"
+            >
               LinkedIn
             </a>
-            <a href="https://github.com/b-a-hanley"
-              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action rounded-none">
-              Github
-            </a>
-            <a href=""
-              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action 
-              rounded-b-lg sm:rounded-r-lg sm:rounded-tl-none sm:rounded-bl-none">
+
+            <a
+              href="/cv.pdf"
+              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action rounded-b-lg sm:rounded-r-lg sm:rounded-tl-none sm:rounded-bl-none"
+            >
               PDF CV
             </a>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-
+</div>
+</div>
   <!-- Skills Section -->
   <div class="px-4 sm:px-6 lg:px-12 mt-8">
     <p class="text-2xl sm:text-3xl underline py-4 font-bold text-colour text-center">Skills</p>

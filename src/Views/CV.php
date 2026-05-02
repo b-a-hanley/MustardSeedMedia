@@ -6,15 +6,15 @@ require_once 'src/Views/Shared/Header.php';
 
   <!-- Title -->
   <div class="text-center px-6">
-    <h3 class="text-base font-semibold leading-7 text-primary">Saint Peter's Net:</h3>
-    <p class="mt-2 text-4xl font-bold tracking-tight text-colour sm:text-5xl">CV</p>
+    <h3 class="text-base font-semibold leading-7 text-primary">PetersNet</h3>
+    <p class="mt-2 text-4xl font-bold tracking-tight text-colour sm:text-5xl">Our Team</p>
   </div> 
 
   <!-- Profile Section -->
-  <div class="px-4 py-6 sm:px-6 lg:px-12">
+  <div class="px-4 sm:px-6 lg:px-12">
     <div class="flex flex-col sm:flex-row justify-center bg-div-background rounded-lg shadow py-6 px-4 sm:px-6">
       <div class="flex justify-center sm:justify-start mb-4 sm:mb-0 sm:mr-6">
-        <img class="h-auto max-w-xs sm:max-w-[200px] rounded-lg shadow-lg" src="/assets/Ben.jpg" alt="Ben">
+        <img class="h-auto max-w-full rounded-lg shadow-lg" src="/assets/Ben.jpg" alt="Ben">
       </div>
       <div class="flex-1">
         <h3 class="text-3xl sm:text-4xl font-bold tracking-tight text-colour">Ben Hanley</h3>
@@ -33,10 +33,6 @@ require_once 'src/Views/Shared/Header.php';
             <a href="https://www.linkedin.com/in/ben-hanley-524b94253/"
               class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action rounded-none">
               LinkedIn
-            </a>
-            <a href="https://github.com/b-a-hanley"
-              class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action rounded-none">
-              Github
             </a>
             <a href=""
               class="flex-1 text-center px-2 py-2 text-sm font-medium bg-action hover:bg-action 

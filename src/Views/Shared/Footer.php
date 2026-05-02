@@ -3,7 +3,7 @@
     <div class="sm:flex sm:items-center sm:justify-between">
       <a href="/st-marys/" class="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-          Saint Peter's Net
+          PetersNet
         </span>
       </a>
     </div>
@@ -31,7 +31,7 @@
       benhanley321@gmail.com
     </a>
     <span class="block text-sm text-gray sm:text-center">
-      © Saint Peter's Net 2025. All Rights Reserved.
+      © PetersNet 2025. All Rights Reserved.
     </span>
   </div>
 </footer>

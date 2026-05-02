@@ -1,11 +1,11 @@
-<section class="bg-section-background justify-center mx-6 my-6 rounded-xl sm:py-16">
+<section class="bg-section-background justify-center mx-12 my-12 rounded-xl sm:py-16">
   <div class="text-center px-6">
-    <h3 class="text-base font-semibold leading-7 text-primary">Saint Peter's Net:</h3>
+    <h3 class="text-base font-semibold leading-7 text-primary">PetersNet</h3>
     <p class="mt-2 text-4xl font-bold tracking-tight text-colour sm:text-5xl">Our Story</p>
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-12 px-6">
-    <div class="flex justify-center md:justify-end md:order-2">
+    <div class="flex justify-center p-12 md:justify-end md:order-2">
       <img class="h-auto max-w-full rounded-lg shadow-lg" 
         src="/assets/Fishing-net.jpg" 
         alt="Fishing net">

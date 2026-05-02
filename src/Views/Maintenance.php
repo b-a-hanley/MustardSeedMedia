@@ -6,7 +6,7 @@ require_once 'src/Views/Shared/Header.php';
 
   <!-- Title -->
   <div class="text-center px-6">
-    <h3 class="text-base font-semibold leading-7 text-primary">Saint Peter's Net:</h3>
+    <h3 class="text-base font-semibold leading-7 text-primary">PetersNet</h3>
     <p class="mt-2 text-4xl font-bold tracking-tight text-colour sm:text-5xl">Church Website Updates and Maintance</p>
   </div> 
 
@@ -32,17 +32,19 @@ require_once 'src/Views/Shared/Header.php';
     <p class="text-2xl sm:text-3xl underline py-4 font-bold text-colour text-center">Programming language experience</p>
     <div class="flex flex-col gap-4 w-full">
       <?php
-      $languages = [
-        "Wix" => 80,
+      $languages = [ 
+        "Wix" => 80, 
+        "C#" => 70,
+        "TypeScript" => 70,
+        "JavaScript/HTML/CSS" => 60,  
         "PHP" => 60,
-        "Flutter (Dart)" => 55,
-        "C#" => 45,
-        "JavaScript/HTML/CSS" => 45,
+        "Visual Basic" => 60,
+        "Flutter (Dart)" => 55, 
         "WordPress" => 30,
         "Python" => 30,
         "Delphi" => 30,
         "Java" => 25,
-        "SQL & NoSQL Databases" => 50
+        "SQL & NoSQL Databases" => 60
       ];
       foreach ($languages as $lang => $percent) {
         echo '<div>

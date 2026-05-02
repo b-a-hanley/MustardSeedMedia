@@ -12,7 +12,7 @@
     <p>If you have any issues, feel free to contact us via our instagram</p>
     <span class="block text-gray text-sm sm:text-center">https://www.instagram.com/uopchristianunion/</span>
     <span class="block text-sm text-gray sm:text-center">
-      © Saint Peter's Net 2025. All Rights Reserved.
+      © PetersNet 2025. All Rights Reserved.
     </span>
   </div>
 </footer>

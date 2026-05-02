@@ -5,7 +5,7 @@ whatever is inserted
 
   title("ourstory")
   <div class="text-center px-6">
-    <h3 class="text-base font-semibold leading-7 text-primary">Saint Peter's Net:</h3>
+    <h3 class="text-base font-semibold leading-7 text-primary">PetersNet</h3>
     <p class="mt-2 text-4xl font-bold tracking-tight text-colour sm:text-5xl">Our Story</p>
   </div>
 
