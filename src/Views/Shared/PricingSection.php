@@ -16,7 +16,7 @@
         <p class="text-gray-700 mb-6">Affordable signposting to your church.</p>
 
         <div class="flex items-baseline justify-center mb-6">
-          <span class="text-5xl font-extrabold">£12.30</span>
+          <span class="text-5xl font-extrabold">£11.30</span>
           <span class="text-colour ml-2 text-gray-500">/month</span>
         </div>
 
@@ -47,7 +47,7 @@
           </li>
         </ul>
         <div class="mt-auto">
-            <p class="mb-2 text-black">One-off setup cost: <span class="font-semibold">£300</span></p>
+            <p class="mb-2 text-black">One-off setup cost: <span class="font-semibold">£150</span></p>
             <p class="mb-6 text-black">Modifications: <span class="font-semibold">£20/hour</span></p>
             <a href="/starter" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
         </div>
@@ -59,7 +59,7 @@
         <p class="text-gray-700 mb-6">Best deal for a comprehensive website.</p>
 
         <div class="flex items-baseline justify-center mb-6">
-          <span class="text-5xl font-extrabold">£15.90</span>
+          <span class="text-5xl font-extrabold">£13.90</span>
           <span class="text-colour ml-2 text-gray-500">/month</span>
         </div>
 
@@ -102,7 +102,7 @@
           </li>
         </ul>
         <div class="mt-auto">
-            <p class="text-black mb-2">One-off setup cost: <span class="font-semibold">£400</span></p>
+            <p class="text-black mb-2">One-off setup cost: <span class="font-semibold">£200</span></p>
             <p class="text-black mb-6">Modifications: <span class="font-semibold">£20/hour</span></p>
             <a href="/premium" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
         </div>
@@ -114,7 +114,7 @@
         <p class="text-gray-700 mb-6">Best for regularly updated Websites.</p>
 
         <div class="flex items-baseline justify-center mb-6">
-          <span class="text-5xl font-extrabold">£28.60</span>
+          <span class="text-5xl font-extrabold">£23.60</span>
           <span class="ml-2 text-gray-500">/month</span>
         </div>
 
@@ -170,7 +170,7 @@
         </ul>
         
         <div class="mt-auto">
-            <p class="mb-2 text-black">One-off setup cost: <span class="font-semibold">£30 per page</span></p>
+            <p class="mb-2 text-black">One-off setup cost: <span class="font-semibold">£20 per page</span></p>
             <p class="mb-6 text-black">Modifications: <span class="font-semibold">£25/hour</span></p>
             <a href="/enterprise" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
         </div>
