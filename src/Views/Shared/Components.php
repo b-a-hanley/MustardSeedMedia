@@ -9,7 +9,7 @@ whatever is inserted
     <p class="mt-2 text-4xl font-bold tracking-tight text-colour sm:text-5xl">Our Story</p>
   </div>
 
-  base()
+  baseText()
   <p class="mt-6 text-xl leading-8 text-colour">
     Born in Portsmouth, Ben, had a natural effinity with technology. At the age of 11 he built an elaborate powerpoint game until he was told of programming. Ben with his new found love went to university to achieve a computer science degree. Whilst looking for work Ben realised he could use his time to craft bespoke church websites.
   </p>

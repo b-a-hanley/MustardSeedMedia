@@ -32,10 +32,6 @@ switch ($uri) {
 		$controller = new Controllers\OurTeamController();
 		$controller->index();
 		break;
-	case '/ben-hanley':
-		$controller = new Controllers\OurTeamController();
-		$controller->index();
-		break;
 	case '/premium':
 		$controller = new Controllers\PremiumController();
 		$controller->index();
@@ -48,49 +44,29 @@ switch ($uri) {
 		$controller = new Controllers\InstructionsController();
 		$controller->index();
 		break;
-	//destination: methodist central hall
-	case '/scavenger':
-		$controller = new Controllers\ScavengerController();
-		$controller->index();
-		break;
 	case '/clue':
-		$controller = new Controllers\ClueController();
+		$controller = new Controllers\Scavenger\ClueController();
 		$controller->index();
 		break;
 	//destination: guildhall
 	case '/scavenger/spider':
-		$controller = new Controllers\Scavenger1Controller();
+		$controller = new Controllers\Scavenger\Scavenger1Controller();
 		$controller->index();
 		break;
 	case '/clue/sock':
-		$controller = new Controllers\Clue1Controller();
-		$controller->index();
-		break;
-	//destination: derry clock tower
-	case '/scavenger/blue':
-		$controller = new Controllers\Scavenger2Controller();
+		$controller = new Controllers\Scavenger\Clue1Controller();
 		$controller->index();
 		break;
 	case '/clue/tape':
-		$controller = new Controllers\Clue2Controller();
-		$controller->index();
-		break;
-	//destination: norrington fountain
-	case '/scavenger/tree':
-		$controller = new Controllers\Scavenger3Controller();
+		$controller = new Controllers\Scavenger\Clue2Controller();
 		$controller->index();
 		break;
 	case '/clue/apricot':
-		$controller = new Controllers\Clue3Controller();
-		$controller->index();
-		break;
-	//destination: caffeine
-	case '/scavenger/plastic':
-		$controller = new Controllers\Scavenger4Controller();
+		$controller = new Controllers\Scavenger\Clue3Controller();
 		$controller->index();
 		break;
 	case '/clue/meme':
-		$controller = new Controllers\Clue4Controller();
+		$controller = new Controllers\Scavenger\Clue4Controller();
 		$controller->index();
 		break;
 	case '/enterprise':

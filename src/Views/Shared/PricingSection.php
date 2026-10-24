@@ -49,7 +49,7 @@
         <div class="mt-auto">
             <p class="mb-2 text-colour">One-off setup cost: <span class="font-semibold">£80</span></p>
             <p class="mb-6 text-colour">Modifications: <span class="font-semibold">£20/hour</span></p>
-            <a href="/starter" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
+            <a href="http://starter.localhost:3000" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
         </div>
       </div>
 
@@ -110,7 +110,7 @@
         <div class="mt-auto">
             <p class="text-colour mb-2">One-off setup cost: <span class="font-semibold">£100</span></p>
             <p class="text-colour mb-6">Modifications: <span class="font-semibold">£20/hour</span></p>
-            <a href="/premium" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
+            <a href="http://premium.localhost:3000" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
         </div>
       </div>
 
@@ -171,7 +171,7 @@
         <div class="mt-auto">
             <p class="mb-2 text-colour">One-off setup cost: <span class="font-semibold">£500</span></p>
             <p class="mb-6 text-colour">Modifications: <span class="font-semibold">£35/hour</span></p>
-            <a href="/enterprise" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
+            <a href="http://enterprise.localhost:3000" class="block text-center bg-action text-white font-medium rounded-lg py-3 hover:opacity-90 transition-opacity">Get Started</a>
         </div>
       </div>
 

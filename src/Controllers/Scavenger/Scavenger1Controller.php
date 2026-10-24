@@ -1,12 +1,12 @@
 <?php
-namespace App\Controllers;
+namespace App\Controllers\Scavenger;
 
 class Scavenger1Controller {
 
 	public function __construct() {}
 
 	public function index() {
-        require_once('src/Views/Scavenger1.php');
+        require_once('src/Views/Scavenger/Scavenger1.php');
     }
 
 }

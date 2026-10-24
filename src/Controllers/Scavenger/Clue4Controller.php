@@ -1,12 +1,12 @@
 <?php
-namespace App\Controllers;
+namespace App\Controllers\Scavenger;
 
 class Clue4Controller {
 
 	public function __construct() {}
 
 	public function index() {
-        require_once('src/Views/Clue4.php');
+        require_once('src/Views/Scavenger/Clue4.php');
     }
 
 }

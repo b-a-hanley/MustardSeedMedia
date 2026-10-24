@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
-  <link rel="stylesheet" href="/assets/css/Colours.css">
+  <link rel="stylesheet" href="/assets/css/Purple.css">
 </head>
 <body class="text-colour">
 <nav class="nav">
@@ -32,7 +32,7 @@
     <!-- Desktop & mobile menu -->
     <div class="hidden w-full md:flex md:w-auto" id="mobile-menu">
       <ul class="font-medium flex flex-col md:flex-row md:space-x-8 mt-4 md:mt-0">
-        <li><a href="instructions" class="block px-4 py-2 border-0 hover:text-primary">Instructions</a></li>
+        <li><a href="/instructions" class="block px-4 py-2 border-0 hover:text-primary">Instructions</a></li>
       </ul>
     </div>
   </div>
